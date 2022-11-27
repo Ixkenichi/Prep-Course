@@ -235,7 +235,11 @@ function esVocal(letra){
   return "Dato incorrecto";
 }
 
-
+//if (letra == "A" || letra == "E" || letra == "I" || letra == "O" || letra == "U" || letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u") {
+  //return " Es vocal"
+//}else{
+   // return " Dato incorrecto"
+//} esta es la respuesta basica pero la que esta arriba es una mas corta
 
 // No modificar nada debajo de esta línea
 // --------------------------------
